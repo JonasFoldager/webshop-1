@@ -1,0 +1,155 @@
+/*
+Theme Name: Storefront Child
+Theme URI: https://woocommerce.com/storefront/
+Template: storefront
+Author: Automattic
+Author URI: https://woocommerce.com/
+Description: Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout &amp; color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!
+Tags: e-commerce,two-columns,left-sidebar,right-sidebar,custom-background,custom-colors,custom-header,custom-menu,featured-images,full-width-template,threaded-comments,accessibility-ready,rtl-language-support,footer-widgets,sticky-post,theme-options,editor-style
+Version: 4.1.3.1666868349
+Updated: 2022-10-27 10:59:09
+
+*/
+
+body{
+    background-color: rgb(131, 85, 85);
+}
+
+.site-header{
+    background-color: rgb(195, 150, 150);
+    border: none;
+}
+
+#woocommerce-product-search-field-0{
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+}
+
+#colophon{
+    background-color: rgb(195, 150, 150);
+}
+
+.woocommerce-breadcrumb{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+.wp-block-search__label{
+    color: aliceblue !important;
+}
+
+.wp-block-search__button{
+ border-radius: 10%;
+}
+
+.woocommerce-products-header__title{
+    color: aliceblue;
+}
+
+.woocommerce-result-count{
+    color: aliceblue;
+}
+
+
+bdi{
+    color: aliceblue;
+}
+
+.orderby{
+    background-color:rgb(131, 85, 85);
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
+.page-description{
+    display: flex;
+    justify-content: center;
+}
+
+.has-text-align-center{ 
+    background-color: black;
+    padding: 2rem; 
+    width: 70%;
+    border-radius: 2rem;
+} 
+
+.widget-area .widget a{
+    color: aliceblue !important;
+
+}
+
+.site-branding .site-description{
+    display: none;
+}
+
+.beta .site-title{
+    display: none;
+}
+
+
+.post-edit-link{
+    display: none;
+}
+
+
+.widget-area .widget{
+    color: aliceblue;
+}
+
+.site-info{
+    color: black;
+
+}
+
+#block-3{
+    display: none;
+}
+
+#block-5{
+    display: none;
+}
+
+p{
+    color: aliceblue !important;
+}
+
+::marker{
+    color: aliceblue !important;
+}
+
+li{
+    color: aliceblue !important;
+}
+
+h3{
+    color: aliceblue !important;
+}
+
+.entry-title{
+    color: aliceblue !important;
+}
+
+
+a{
+    color: aliceblue !important;
+}
+
+
+.wc-backward{
+    background-color: black;
+    border-radius: 1rem;
+}
+
+.button{
+    background-color: black;
+    border-radius: 1rem;
+}
+
+.label{
+    color: aliceblue;
+}
+
+span{
+    color: aliceblue;
+}
